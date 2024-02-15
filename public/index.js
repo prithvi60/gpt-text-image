@@ -37,3 +37,4 @@ imageForm.addEventListener('submit', async (e) => {
 
   thumbnail.setAttribute('src', data.url)
 })
+module.exports = app;
